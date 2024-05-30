@@ -1,0 +1,24 @@
+table{
+    border:  2px solid blue;
+}
+th{
+  border: 2px solid blue;
+  background: red;
+  color: #0d0d0d;
+}
+td{
+    border: 2px solid blue;
+    background-color: yellow;
+    color: blue;
+    font-size: 15px;
+}
+.table-two table td, th{
+    box-shadow: 0px 1px 2px 1px;
+}
+
+.header{
+    margin-top: 200px;
+}
+.hero{
+    background: rgb(204, 204, 244);
+}
