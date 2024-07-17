@@ -4,7 +4,7 @@ table{
 th{
   border: 2px solid blue;
   background: red;
-  color: #0d0d0d;
+  color:#FFFF;
 }
 td{
     border: 2px solid blue;
@@ -20,5 +20,5 @@ td{
     margin-top: 200px;
 }
 .hero{
-    background: rgb(204, 204, 244);
+    background: blue;
 }
