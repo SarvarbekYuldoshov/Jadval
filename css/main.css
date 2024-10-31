@@ -19,3 +19,6 @@ td{
 .hero{
     background: blue;
 }
+.header-div{
+    display: flex;
+}
